@@ -1,0 +1,4 @@
+Server :DAS-000\SQLEXPRESS
+ID :sa
+Pass :ap
+DBName :DAS4

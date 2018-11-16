@@ -1,0 +1,4 @@
+Server :Jang-PC\SA
+ID :sa
+Pass :ap
+DBName :root2

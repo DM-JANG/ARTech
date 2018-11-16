@@ -1,0 +1,15 @@
+E:\ART\ProtocolTest\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\ART\ProtocolTest\WpfApp1\bin\Debug\WpfApp1.exe
+E:\ART\ProtocolTest\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\App.g.cs
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\MainWindow.baml
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.exe
+E:\ART\ProtocolTest\WpfApp1\obj\Debug\WpfApp1.pdb

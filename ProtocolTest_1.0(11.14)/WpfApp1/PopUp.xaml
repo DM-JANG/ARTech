@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.PopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="PopUp" Height="150" Width="300" Activated="Window_Activated"   
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        BorderBrush="Black"
+        BorderThickness="3">
+    <Grid Name="Labels">
+        <Label Content="시 간 : " HorizontalAlignment="Left" Margin="19,13,0,0" VerticalAlignment="Top"/>
+        <Label Content="차 종 : " HorizontalAlignment="Left" Margin="19,44,0,0" VerticalAlignment="Top"/>
+        <Label Content="방 향 : " HorizontalAlignment="Left" Margin="19,75,0,0" VerticalAlignment="Top"/>
+        <Label Content="위 치 : " HorizontalAlignment="Left" Margin="19,106,0,0" VerticalAlignment="Top"/>
+        <Label Name ="Time"  Content="" HorizontalAlignment="Left" Margin="73,13,0,0" VerticalAlignment="Top"/>
+        <Label Name ="Train"   Content="" HorizontalAlignment="Left" Margin="73,44,0,0" VerticalAlignment="Top"/>
+        <Label Name ="Updown"   Content="" HorizontalAlignment="Left" Margin="73,75,0,0" VerticalAlignment="Top"/>
+        <Label Name ="Pos"   Content="" HorizontalAlignment="Left" Margin="73,106,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

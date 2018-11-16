@@ -1,0 +1,4 @@
+Server :USER-PC\SQLEXPRESS
+ID :sa
+Pass :ap
+DBName :ARTech
